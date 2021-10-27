@@ -7,7 +7,7 @@ copycat for youtube
 
 
 ## How to make a call to the API
-[API](https://developers.google.com/youtube/v3/docs/search/list?apix_params=%7B%22part%22%3A%5B%22id%22%5D%2C%22order%22%3A%22viewCount%22%2C%22type%22%3A%5B%22video%22%5D%2C%22videoLicense%22%3A%22creativeCommon%22%2C%22videoType%22%3A%22any%22%7D#type)
+[API](https://developers.google.com/youtube/v3/docs/search/list?apix_params=%7B%22part%22%3A%5B%22id%22%5D%2C%22eventType%22%3A%22completed%22%2C%22order%22%3A%22viewCount%22%2C%22type%22%3A%5B%22video%22%5D%2C%22videoLicense%22%3A%22creativeCommon%22%2C%22videoType%22%3A%22any%22%7D#type)
 
 
 ## Watch out for music videos!
