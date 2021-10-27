@@ -13,3 +13,6 @@ copycat for youtube
 ## Watch out for music videos!
 Music videos have different licencing. Apperently they can have CC License for the Video but other for the Sound!!!
 [Example](https://www.youtube.com/watch?v=Rg4HQ1RhhYk)
+### How to accomplish that?
+- use [videoCategory](https://developers.google.com/youtube/v3/docs/videoCategories/list?apix_params=%7B%22part%22%3A%5B%22snippet%22%5D%2C%22id%22%3A%5B%221%22%5D%7D#usage) - just need to check all the categories uff...is there a list somewhere?
+- probably need to still explicitly check music licence in the video but not using the music category rules out a lot of possible videos that can have licenced music
