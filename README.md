@@ -1,6 +1,7 @@
 # copycat
 copycat for youtube
 
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-blue?logo=github)
 
 ## Resources
 [on creative commons on youtube](https://www.youtube.com/watch?v=kBG-RnZU2cQ)
