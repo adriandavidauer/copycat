@@ -1,7 +1,7 @@
 # copycat
 copycat for youtube
 
-![build with Copilot Workspace](https://img.shields.io/badge/build%20with-Copilot%20Workspace-blue?logo=github)
+![build with Copilot Workspace](https://img.shields.io/badge/build%20with-Copilot%20Workspace-blue?logo=github&link=https://githubnext.com/projects/copilot-workspace)
 
 ## Resources
 [on creative commons on youtube](https://www.youtube.com/watch?v=kBG-RnZU2cQ)
