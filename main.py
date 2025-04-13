@@ -4,6 +4,7 @@ def search_videos(query):
 
     :param query: The search query.
     :raises: NotImplementedError
+    :return: YouTube Data API response code
     """
     raise NotImplementedError
 
@@ -14,6 +15,7 @@ def get_video_details(video_id):
 
     :param video_id: The ID of the video.
     :raises: NotImplementedError
+    :return: YouTube Data API response code
     """
     raise NotImplementedError
 
@@ -24,6 +26,7 @@ def download_video(video_id):
 
     :param video_id: The ID of the video.
     :raises: NotImplementedError
+    :return: YouTube Data API response code
     """
     raise NotImplementedError
 
@@ -34,6 +37,7 @@ def check_music_license(video_id):
 
     :param video_id: The ID of the video.
     :raises: NotImplementedError
+    :return: YouTube Data API response code
     """
     raise NotImplementedError
 
@@ -43,6 +47,18 @@ def get_trending_videos():
     Get a list of trending videos on YouTube.
 
     :raises: NotImplementedError
+    :return: YouTube Data API response code
+    """
+    raise NotImplementedError
+
+
+def upload_video(video_path):
+    """
+    Upload a video to YouTube.
+
+    :param video_path: The path to the video file.
+    :raises: NotImplementedError
+    :return: YouTube Data API response code
     """
     raise NotImplementedError
 
@@ -52,5 +68,6 @@ def main():
     Main function to run the program.
 
     :raises: NotImplementedError
+    :return: None
     """
     raise NotImplementedError
